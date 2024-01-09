@@ -6,7 +6,7 @@ import { Link } from "react-router-dom";
 const Products = () => {
     return (
         <>
-            <Grid container lg={12} xl={10}  margin={5} gap={2}>
+            <Grid container lg={12} xl={10}  marginLeft={10} gap={2} marginTop={10}>
                 {products.map((e, i) => {
                     return (
             <Box key={e?.id} index={i} >
