@@ -1,5 +1,5 @@
 import Products from "../../Components/ecommerce/Products"
-import Footer from "../../Components/footer"
+
 import NavBar from "../../Components/navbar/NavBar"
 
 
@@ -9,8 +9,6 @@ const Landing = () => {
     <div>
     <NavBar/>
       <Products/>
-     <Footer/>
-      
     </div>
    </>
   )
