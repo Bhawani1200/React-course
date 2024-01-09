@@ -1,0 +1,6 @@
+.foot{
+    position: fixed;
+    background-color: rgb(126, 119, 119);
+    width: 100%;
+    padding: 20px;
+}
